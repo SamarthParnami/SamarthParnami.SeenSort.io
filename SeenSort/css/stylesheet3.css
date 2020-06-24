@@ -22,10 +22,15 @@ body
 #para
 {
 	
-	color:white;
-	font-family: theboldfont;
-	font-size:3vh;
-	margin-left: 7.8vw;
+color:white;
+	
+font-family: theboldfont;
+	
+font-size:3vh;
+	
+text-rendering: geometricPrecision;
+	
+text-align: center;
 }
 #logo
 {
@@ -42,10 +47,10 @@ body
 #content
 {
 	position: relative;
-    top: 18vh;
-    left:35vw;
-    opacity: 0;
-    animation-name: cont;
+	top: 22vh;
+	/* left:35vw; */
+	opacity: 0;
+	animation-name: cont;
 	animation-delay:1.35s;
 	animation-duration: 1.2s;
 	animation-fill-mode:forwards;
@@ -57,15 +62,12 @@ body
 	width: 25.3vw;
 	height: auto;
 	margin: 1vh;
-    margin-left: 2.77vw;
-    border-radius:15px;
+	margin-left: 37.5vw;
+	border-radius:15px;
 	background-color:white;
 	color:#100e17;
-	border-width: 0px; 
+	border-width: 0px;
 	padding: 1vh;
-
-
-
 }
 #button:hover
 {
