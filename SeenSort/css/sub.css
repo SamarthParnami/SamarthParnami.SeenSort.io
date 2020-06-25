@@ -29,9 +29,9 @@ body
 		height: 10vh;
 		
 	}
-	#input
+	#input:focus
 	{
-
+		outline:none;
 	}
 	#pageTitle
 	{
@@ -70,6 +70,9 @@ body
 		
 		font-size: 2.8vh;
 	}
+	#button:focus
+{
+	outline :none;
 	#play
 	{
 		border:#100e17 0px;
