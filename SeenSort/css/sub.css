@@ -73,6 +73,7 @@ body
 	#button:focus
 {
 	outline :none;
+}
 	#play
 	{
 		border:#100e17 0px;
