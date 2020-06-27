@@ -68,6 +68,7 @@ text-align: center;
 	color:#100e17;
 	border-width: 0px;
 	padding: 1vh;
+	outline:none;
 }
 #button:hover
 {
@@ -82,7 +83,7 @@ text-align: center;
 	color:#100e17;
 	border-width: 0px; 
 	padding: 1vh;
-	
+	outline:none;
 	background-color: #f47818 ;
 	
 }
